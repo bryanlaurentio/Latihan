@@ -1,2 +1,2 @@
-# SanberCode0820
+# Sanber Code Data Science
 Tempat buat nampung codingan di sanber :)
