@@ -1,2 +1,2 @@
-# Sanber Code Data Science
-Tempat buat nampung codingan di sanber :)
+# Bootcamp 
+Bootcamp Data Science Agustus'20 - September'20
